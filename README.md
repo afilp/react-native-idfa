@@ -44,7 +44,7 @@ class Basic extends Component {
 ## How to run example
 
 ```
-git clone git@github.com:ptomasroos/react-native-idfa.git
+git clone git@github.com:afilp/react-native-idfa.git
 cd react-native-idfa/examples/Basic
 npm install
 npm run start
